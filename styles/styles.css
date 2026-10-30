@@ -141,6 +141,10 @@ div.hobby-container img.hobby-img {
   margin-bottom: 0;
 }
 
+section.index-main-section:last-of-type {
+  padding-bottom: 20px;
+}
+
 form .identity,
 .stats {
   background-color: antiquewhite;
