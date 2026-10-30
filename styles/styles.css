@@ -137,6 +137,10 @@ section.index-main-section img:first-of-type {
   margin-bottom: 50px;
 }
 
+div.hobby-container img.hobby-img {
+  margin-bottom: 0;
+}
+
 form .identity,
 .stats {
   background-color: antiquewhite;
